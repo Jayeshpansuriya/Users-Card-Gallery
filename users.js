@@ -21,6 +21,8 @@
 import fetch from 'node-fetch';
 import minimist from 'minimist';
 
+
+
 const args = minimist(process.argv.slice(2));
 const genderFilter= args.gender;
 const countryFilter =args.country;
