@@ -17,11 +17,11 @@ Fully dynamic (no hardcoded HTML)
 
 https://randomuser.me/api/?results=10
 
-# 🚲 2.we can run on server.js 
+# 2.we can run on server.js 
 
 <img width="624" height="349" alt="image" src="https://github.com/user-attachments/assets/0f72a806-0518-48bb-bdb9-63e212e81bd9" />
 
-# 🚅 3.now we can get api from the link to the server http:/localhost:3000/users/:gender
+# 3.now we can get api from the link to the server http:/localhost:3000/users/:gender
 
 <img width="1911" height="983" alt="image" src="https://github.com/user-attachments/assets/0c13e145-d1b3-439c-843a-f1a865ac1f5a" />
 
@@ -32,3 +32,13 @@ https://randomuser.me/api/?results=10
 # 5.showing added users from api in momgodb
 
 <img width="1465" height="771" alt="image" src="https://github.com/user-attachments/assets/bdf8f75f-d9da-453f-b2cc-5134e3507740" />
+
+# 6.creating the csv file from api 
+
+<img width="556" height="67" alt="image" src="https://github.com/user-attachments/assets/e823b92c-94c4-4508-97e2-8118de28892f" />
+
+# 7.creating the csv file automatically and fetched users from api 
+
+<img width="1031" height="678" alt="csv" src="https://github.com/user-attachments/assets/c48a0ea1-f249-463d-bd50-acf9ce972a0f" />
+
+
