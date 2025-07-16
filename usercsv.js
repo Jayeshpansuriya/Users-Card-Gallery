@@ -13,10 +13,10 @@ async function main(){
         const users = data.results;
 
        const cleaned = users.map(user=>({
-            fullName: `${user.name.first} ${user.name.last}`,
+            fullName:`${user.name.first} ${user.name.last}`,
             gender:user.gender,
             email:user.email,
-            country: user.location.country,
+            country:user.location.country,
         }));
 
         const parses = new Parser();
